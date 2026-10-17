@@ -220,7 +220,7 @@ The analysis helps management understand **sales trends, regional performance, c
 
 ## Author
 
-**Bajrang Mahli**
+**ASHUTOSH KUSHWAHA**
 
 Aspiring Data Analyst | Excel | SQL | Power BI | Python
 
